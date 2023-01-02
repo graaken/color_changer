@@ -1,0 +1,17 @@
+#btn {
+    background-color: #ffc107;
+    color: #fff;
+    transition: background-color 1s;
+}
+
+#btn:hover {
+    background-color: #ff6f00;
+}
+
+#rgbInput {
+    background-color: rgb(240, 240, 240, 0.4);
+    color: white;
+    border: none;
+    outline: none;
+    cursor: default;
+}
